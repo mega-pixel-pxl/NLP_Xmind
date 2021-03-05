@@ -1,0 +1,5 @@
+pip install -i 源地址 --upgrade packagename
+pip --default-timeout=100 install -i https://pypi.mirrors.ustc.edu.cn/simple/ --upgrade scipy
+pip --default-timeout=100 install -i https://pypi.tuna.tsinghua.edu.cn/simple/ 
+
+ssh密码：Pxl98190602
